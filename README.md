@@ -1,0 +1,1 @@
+# Bean_with_component
